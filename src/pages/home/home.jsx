@@ -1,8 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-
-export default function App() {
+import "./home.scss"
+export default function home() {
   return (
-    <div>App</div>
+    <div>home</div>
   )
 }

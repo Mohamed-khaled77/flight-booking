@@ -1,8 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-
-export default function App() {
+import "./regaster.scss"
+export default function regaster() {
   return (
-    <div>App</div>
+    <div>regaster</div>
   )
 }
