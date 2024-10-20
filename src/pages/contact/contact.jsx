@@ -1,8 +1,8 @@
-// eslint-disable-next-line no-unused-vars
-import React from 'react'
-import "./contact.scss"
-export default function contact() {
+
+import "./Contact.scss"
+export default function Contact() {
   return (
     <div>contact</div>
   )
 }
+

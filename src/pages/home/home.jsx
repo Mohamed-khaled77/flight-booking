@@ -1,7 +1,5 @@
-// eslint-disable-next-line no-unused-vars
-import React from 'react'
-import "./home.scss"
-export default function home() {
+import "./Home.scss"
+export default function Home() {
   return (
     <div>home</div>
   )
